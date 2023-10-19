@@ -24,15 +24,15 @@ Servo myServo;
 String Name = "Rathanan";
 
 
-const char* ssid     = "JumboPlus_DormIoT";
-const char* password = "rathanan027";
-String GAS_ID = "AKfycbzY5xx97OtgRWZG0XDeasfcChxKmKlXFq0VGJfuoVGmEDDleL_S78Zu--VHEefD2Oi8Fg";
+const char* ssid     = "ssid";
+const char* password = "password";
+String GAS_ID = "googlesheeturl";
 const char* host = "script.google.com"; 
 const char* mqtt_server = "broker.netpie.io";
 const int mqtt_port = 1883;
-const char* mqtt_Client = "34e8cb13-350a-46a6-859d-0d330d36959b";
-const char* mqtt_username = "j7PNENLxxzHeuorSd8WxmSWVgCJMb6ge";
-const char* mqtt_password = "TQFv3PcyVRbVD6NWvvbJYiMp3JFrkadm";
+const char* mqtt_Client = "xxxxxxxxxxx";
+const char* mqtt_username = "xxxxxxxxx";
+const char* mqtt_password = "xxxxxxxxxx";
 
 
 WiFiClient espClient;
